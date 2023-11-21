@@ -1,0 +1,151 @@
+.jose{
+      width:1500px;
+    height:700px;
+    margin-left: 30px;
+    padding-top: 25px;
+}
+.uwiduhaye{
+    background-color:  rgb(224, 177, 106);
+    width:1500px;
+    height:100px;
+   
+   
+}
+.menu1{
+    background-color: white;
+    width: 1500px;
+    height:350px;
+}
+.menu2{
+    background-color: rgb(224, 177, 106);
+    width:1500px;
+    height:220px;
+}
+h2{
+    color:white;
+    margin-top: 16px;
+    
+    
+}
+
+   
+
+ul{
+    list-style-type: none;
+  
+    text-decoration: none;
+   
+}
+a{
+    float:left;
+    text-decoration: none;
+   
+  
+}
+li a{
+    color:white;
+    margin-left: 100px;
+    
+    margin-top: -10px;
+    border-right: 2px solid rgb(232, 223, 223);
+    padding: 10px;
+
+    text-align: center;
+
+   
+}
+.form{
+    margin-left: 200px;
+    padding-top: 30px;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.menu3{
+    margin-left: 250px;
+    padding-top: 20px;
+    color:whitesmoke;
+}
+.menu4{
+    margin-left: 450px;
+    margin-top: -110px;
+    color:whitesmoke;
+}
+.menu5{
+    margin-left: 650px;
+    margin-top: -110px;
+    color:whitesmoke;
+}
+.menu6{
+    margin-left: 850px;
+    margin-top: -110px;
+    color:whitesmoke;
+}
+.menu7{
+    margin-left: 1050px;
+    margin-top: -110px;
+    color:whitesmoke
+}
+.h2{
+    margin-left: 30px;
+    padding-top: 10px;
+}
+.ul{
+    margin-top: -25px;
+}
+
+.line{
+    background-color: rgb(3, 13, 22);
+    width: 706px;
+    height:2px;
+    margin-left: 230px;
+    margin-top: 84px;
+}
+
+.picture{
+    background-color: rgb(3, 13, 22);
+    width: 108px;
+    height:30px;
+    margin-left: 1423px;
+    margin-top: -159px;
+  
+}
+#img{
+    height:40px;
+}
+.button1{
+    background-color:rgb(224, 177, 106);
+    width: 80px;
+    height:35px;
+    border-radius: 5px;
+    color:white;
+    border-color: white;
+}
+.button2{
+    background-color: rgb(224, 177, 106);
+    width: 200px;
+    height:35px;
+    border-radius: 5px;
+    color:white;
+    border-color:white;
+    
+}
+.username{
+    width:400px;
+    height:30px;
+   border-color: rgb(220, 136, 25);
+   
+}
+.password{
+    width:400px;
+    height:40px;
+    border-color: rgb(205, 111, 17);
+    
+}
+ul img{
+    margin-top: -60px;
+}
+
+
+
+
+
